@@ -1,0 +1,16 @@
+C:\Users\Norberto Carrillo\source\repos\Sombras_NCL\Sombras_NCL\Sombras_NCL\bin\Debug\netstandard2.0\Sombras_NCL.deps.json
+C:\Users\Norberto Carrillo\source\repos\Sombras_NCL\Sombras_NCL\Sombras_NCL\bin\Debug\netstandard2.0\Sombras_NCL.dll
+C:\Users\Norberto Carrillo\source\repos\Sombras_NCL\Sombras_NCL\Sombras_NCL\bin\Debug\netstandard2.0\ref\Sombras_NCL.dll
+C:\Users\Norberto Carrillo\source\repos\Sombras_NCL\Sombras_NCL\Sombras_NCL\bin\Debug\netstandard2.0\Sombras_NCL.pdb
+C:\Users\Norberto Carrillo\source\repos\Sombras_NCL\Sombras_NCL\Sombras_NCL\obj\Debug\netstandard2.0\Sombras_NCL.csproj.AssemblyReference.cache
+C:\Users\Norberto Carrillo\source\repos\Sombras_NCL\Sombras_NCL\Sombras_NCL\obj\Debug\netstandard2.0\Sombras_NCL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Norberto Carrillo\source\repos\Sombras_NCL\Sombras_NCL\Sombras_NCL\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Norberto Carrillo\source\repos\Sombras_NCL\Sombras_NCL\Sombras_NCL\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Norberto Carrillo\source\repos\Sombras_NCL\Sombras_NCL\Sombras_NCL\obj\Debug\netstandard2.0\Sombra.xaml.g.cs
+C:\Users\Norberto Carrillo\source\repos\Sombras_NCL\Sombras_NCL\Sombras_NCL\obj\Debug\netstandard2.0\Sombras_NCL.AssemblyInfoInputs.cache
+C:\Users\Norberto Carrillo\source\repos\Sombras_NCL\Sombras_NCL\Sombras_NCL\obj\Debug\netstandard2.0\Sombras_NCL.AssemblyInfo.cs
+C:\Users\Norberto Carrillo\source\repos\Sombras_NCL\Sombras_NCL\Sombras_NCL\obj\Debug\netstandard2.0\Sombras_NCL.csproj.CoreCompileInputs.cache
+C:\Users\Norberto Carrillo\source\repos\Sombras_NCL\Sombras_NCL\Sombras_NCL\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Norberto Carrillo\source\repos\Sombras_NCL\Sombras_NCL\Sombras_NCL\obj\Debug\netstandard2.0\Sombras_NCL.dll
+C:\Users\Norberto Carrillo\source\repos\Sombras_NCL\Sombras_NCL\Sombras_NCL\obj\Debug\netstandard2.0\refint\Sombras_NCL.dll
+C:\Users\Norberto Carrillo\source\repos\Sombras_NCL\Sombras_NCL\Sombras_NCL\obj\Debug\netstandard2.0\Sombras_NCL.pdb
